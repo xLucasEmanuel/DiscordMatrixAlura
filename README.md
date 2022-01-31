@@ -1,0 +1,3 @@
+# DiscordMatrixAlura
+Primeiro contato com react ! 90 % da imersão conclcuída
+Falta ainda alguns detalhes...
